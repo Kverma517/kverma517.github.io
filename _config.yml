@@ -1,0 +1,41 @@
+# Basic
+name:               "Kamal Verma"
+
+# URL
+url:                "http://blueneon.io"
+baseurl:            ""
+twitter_username:   "kxrx"
+permalink:          /:year/:month/:day/:title.html
+
+# Markdown
+markdown:           rdiscount
+
+# Navigation
+nav:
+  - name:           "Work"
+    href:           "http://www.dowjones.com/"
+  - name:           "Twitter"
+    href:           "https://www.twitter.com/kxrx"
+  - name:           "LinkedIn"
+    href:           "https://www.linkedin.com/in/kamalverma"
+  - name:           "RSS"
+    href:           "/feed.xml"
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
