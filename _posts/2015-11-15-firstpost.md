@@ -1,5 +1,5 @@
 ---
-title: Example content
+title: Sample blog entry
 lead: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ullamcorper est in imperdiet molestie. Curabitur aliquet sem in ante venenatis.
 ---
 
